@@ -16,7 +16,7 @@ async function getSports() {
     filter: {
       "and": [
         {
-          "property": "Sports",
+          "property": "跟练舞-面纱",
           "select": {
             "is_not_empty": true
           }
